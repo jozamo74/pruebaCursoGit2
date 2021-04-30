@@ -1,3 +1,8 @@
 1 linea1
 2 linea 2
+<<<<<<< HEAD
 3 linea 3
+4 linea 4
+5 linea 5
+=======
+>>>>>>> parent of 465902d... agregando linea3
